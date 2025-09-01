@@ -71,6 +71,11 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 ---
 
+## Continual Learning وCatastrophic Forgetting
+
+[28- Continual Learning with Deep Generative Replay](https://github.com/omnianasa/Papers-/tree/main/0028) 
+
+
 ## Technical, Mathematics and benchmarks
 
 [6- Activation Function developments](https://github.com/omnia197/Papers-/tree/main/0006) 
