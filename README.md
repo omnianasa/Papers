@@ -71,9 +71,13 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 ---
 
-## Continual Learning وCatastrophic Forgetting
+## Diffusions
 
-[28- Continual Learning with Deep Generative Replay](https://github.com/omnianasa/Papers-/tree/main/0028) 
+[28- Denoising Diffusion Probabilistic Models](https://github.com/omnianasa/Papers-/tree/main/0028) 
+
+## Continual Learning , catastrophic Forgetting
+
+[27- Continual Learning with Deep Generative Replay](https://github.com/omnianasa/Papers-/tree/main/0027) 
 
 
 ## Technical, Mathematics and benchmarks
