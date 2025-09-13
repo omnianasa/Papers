@@ -6,7 +6,7 @@ Diffusion models learn to generate images by **teaching a neural network how to 
 
 ---
 
-## High-level intuitive story
+## High level intuitive story
 
 1. **Forward (noise) process**: start with a real image and gradually add small amounts of Gaussian noise for $T$ steps until the image becomes effectively pure Gaussian noise. This process is *fixed* and known.
 2. **Reverse (denoising) process**: learn a neural network that, given a noisy image at timestep $t$, predicts how to step back to $t-1$ — i.e., how to *remove* noise. Repeating this learned step $T$ times (starting from pure noise) yields a generated image.
