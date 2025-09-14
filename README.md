@@ -75,6 +75,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [28- Denoising Diffusion Probabilistic Models](https://github.com/omnianasa/Papers-/tree/main/0028) 
 
+[29- DENOISING DIFFUSION IMPLICIT MODELS](https://github.com/omnianasa/Papers-/tree/main/0029) 
+
 ## Continual Learning , catastrophic Forgetting
 
 [27- Continual Learning with Deep Generative Replay](https://github.com/omnianasa/Papers-/tree/main/0027) 
@@ -92,6 +94,6 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 ## Coming Soon
 
-- Faster RCNN
-- Autoencoders
-- More types of GANS and transformers
+- More diffusion models 
+- video generation
+- advanced techniques in cnn 
