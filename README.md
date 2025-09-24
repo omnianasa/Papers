@@ -59,15 +59,17 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 ---
 
-## Transformers
+## Transformers & LLMs
 
 [18- Attention Is All You Need](https://github.com/omnia197/Papers-/tree/main/0018)
 
 [19- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/omnia197/Papers-/tree/main/0019)
 
-[21- Improving Language Understanding by Generative Pre-Training (GPT-1)](https://github.com/omnia197/Papers-/tree/main/0021)
+[21- Improving Language Understanding by Generative Pre-Training (GPT-1)](https://github.com/omnianasa/Papers-/tree/main/0021)
 
-[26- AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://github.com/omnia197/Papers-/tree/main/0026)
+[26- AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://github.com/omnianasa/Papers-/tree/main/0026)
+
+[30- CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation](https://github.com/omnianasa/Papers-/tree/main/0030)
 
 ---
 
