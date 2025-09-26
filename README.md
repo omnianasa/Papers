@@ -73,6 +73,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [31- SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing](https://github.com/omnianasa/Papers-/tree/main/0031)
 
+[32- Neural Machine Translation of Rare Words with Subword Units](https://github.com/omnianasa/Papers-/tree/main/0032)
+
 ---
 
 ## Diffusions
