@@ -16,6 +16,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [17- Show and Tell:A Neural Image Caption Generator](https://github.com/omnia197/Papers-/tree/main/0017) 
 
+[33- Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/omnianasa/Papers-/tree/main/0033)
+
 ---
 
 ## Object Detection
