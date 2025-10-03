@@ -59,6 +59,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [24- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://github.com/omnia197/Papers-/tree/main/0024)
 
+[34- CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](https://github.com/omnianasa/Papers-/tree/main/0034)
+
 ---
 
 ## Transformers & LLMs
