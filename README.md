@@ -87,9 +87,11 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [29- DENOISING DIFFUSION IMPLICIT MODELS](https://github.com/omnianasa/Papers-/tree/main/0029) 
 
-## Continual Learning , catastrophic Forgetting
+## Different one 
 
 [27- Continual Learning with Deep Generative Replay](https://github.com/omnianasa/Papers-/tree/main/0027) 
+
+[35- Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://github.com/omnianasa/Papers-/tree/main/0035)
 
 
 ## Technical, Mathematics and benchmarks
