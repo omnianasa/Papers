@@ -2,7 +2,7 @@
 
 This repository documents all the research papers I'm studying throughout my AI/ML learning journey. Each paper is accompanied by a personal summary, insights, and related implementation mini-projects. I will update the list with every new step in my development process.
 
-## Convolutional Neural Networks (CNN)
+## General & Convolutional Neural Networks (CNN)
 
 [1- AlexNet](https://github.com/omnia197/Papers-/tree/main/0001)
 
@@ -17,6 +17,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 [17- Show and Tell:A Neural Image Caption Generator](https://github.com/omnia197/Papers-/tree/main/0017) 
 
 [33- Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/omnianasa/Papers-/tree/main/0033)
+
+[36- Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization (AdaIN)](https://github.com/omnianasa/Papers-/tree/main/0036)
 
 ---
 
