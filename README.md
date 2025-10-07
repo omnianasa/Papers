@@ -63,6 +63,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [34- CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](https://github.com/omnianasa/Papers-/tree/main/0034)
 
+[37 - Video-to-Video Synthesis](https://github.com/omnianasa/Papers-/tree/main/0037)
+
 ---
 
 ## Transformers & LLMs
