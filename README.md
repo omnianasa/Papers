@@ -20,6 +20,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [36- Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization (AdaIN)](https://github.com/omnianasa/Papers-/tree/main/0036)
 
+[38- FlowNet: Learning Optical Flow with Convolutional Networks ](https://github.com/omnianasa/Papers-/tree/main/0038)
+
 ---
 
 ## Object Detection
