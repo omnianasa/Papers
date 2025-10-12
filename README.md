@@ -20,7 +20,7 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [36- Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization (AdaIN)](https://github.com/omnianasa/Papers-/tree/main/0036)
 
-[38- FlowNet: Learning Optical Flow with Convolutional Networks ](https://github.com/omnianasa/Papers-/tree/main/0038)
+[38- FlowNet: Learning Optical Flow with Convolutional Networks](https://github.com/omnianasa/Papers-/tree/main/0038)
 
 ---
 
@@ -48,6 +48,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 ## AutoEncoder
 
 [20- Extracting and composing robust features with denoising autoencoders](https://github.com/omnia197/Papers-/tree/main/0020)
+
+[39- Auto-Encoding Variational Bayes](https://github.com/omnianasa/Papers-/tree/main/0039)
 
 ---
 
