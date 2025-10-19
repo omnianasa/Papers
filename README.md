@@ -73,6 +73,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [37 - Video-to-Video Synthesis](https://github.com/omnianasa/Papers-/tree/main/0037)
 
+[41- Self-Attention Generative Adversarial Networks (SAGAN)](https://github.com/omnianasa/Papers-/tree/main/0041)
+
 ---
 
 ## Transformers & LLMs
