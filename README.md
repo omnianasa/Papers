@@ -24,6 +24,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [40- U‑Net: Convolutional Networks for Biomedical Image Segmentation](https://github.com/omnianasa/Papers-/tree/main/0040)
 
+[42- ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://github.com/omnianasa/Papers-/tree/main/0042)
+
 
 
 ---
