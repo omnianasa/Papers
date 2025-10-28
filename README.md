@@ -26,6 +26,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [42- ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://github.com/omnianasa/Papers-/tree/main/0042)
 
+[43- Lookahead Optimizer: k steps forward, 1 step back](https://github.com/omnianasa/Papers-/tree/main/0043)
+
 
 
 ---
