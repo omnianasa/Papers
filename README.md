@@ -124,3 +124,5 @@ This repository documents all the research papers I'm studying throughout my AI/
 # VLM
 
 [47- DeepSeek-OCR: Contexts Optical Compression](https://github.com/omnianasa/Papers-/tree/main/0047)
+
+[48- DeepSeek-OCR 2: Visual Causal Flow](https://github.com/omnianasa/Papers-/tree/main/0048)
