@@ -121,9 +121,6 @@ This repository documents all the research papers I'm studying throughout my AI/
 [9- Searching For Activation Function](https://github.com/omnia197/Papers-/tree/main/0009)  
 
 ---
+# VLM
 
-## Coming Soon
-
-- More diffusion models 
-- video generation
-- advanced techniques in cnn 
+[47- DeepSeek-OCR: Contexts Optical Compression](https://github.com/omnianasa/Papers-/tree/main/0047)
