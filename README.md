@@ -122,6 +122,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [9- Searching For Activation Function](https://github.com/omnia197/Papers-/tree/main/0009)  
 
+[50- DeepONet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators](https://github.com/omnianasa/Papers-/tree/main/0050)
+
 ---
 # VLM
 
