@@ -61,6 +61,7 @@ This repository documents all the research papers I'm studying throughout my AI/
 * **[30]** [CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation](https://arxiv.org/abs/2103.06874)
 * **[31]** [SentencePiece: A simple and language independent subword tokenizer and detokenizer](https://arxiv.org/abs/1808.06226)
 * **[32]** [BPE: Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/abs/1508.07909)
+* **[52]** [Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs](https://arxiv.org/html/2408.13296v1)
 
 ---
 
